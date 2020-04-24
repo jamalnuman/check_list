@@ -1,24 +1,15 @@
-# README
+### Check List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Check list app written in Rails only. Performs all the CRUD actions (index, new/create, show, edit/update, destroy). Uses a few Ruby Gems such as Devise and Simple Form, along with Font Awesome. Written with skull tags which allow Ruby code in html.erb files. 
 
-Things you may want to cover:
+##### Sign up
+![](app/assets/images/signup.png)
 
-* Ruby version
+##### Create a new item
+![](app/assets/images/newitem.png)
 
-* System dependencies
+##### Complete the item
+![](app/assets/images/checklist.png)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Let's connect. 
+[LinkedIn Profile](https://www.linkedin.com/in/jamal-numan/).
