@@ -1,0 +1,7 @@
+<%= simple_form_for @item do |f| %>
+  <%= f.input :title, label: "Item" %>
+  <!-- for every item, an input tag is being created...:title is related to the table attribute...label is the name of the input -->
+  <%= f.input :description %>
+  <%= f.button :submit %>
+<% end %> 
+<!-- no equal sign here -->
